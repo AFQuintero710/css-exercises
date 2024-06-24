@@ -1,0 +1,15 @@
+.Black {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.Yellow {
+    background-color: yellow;
+}
+
+.Black,
+.Yellow {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
